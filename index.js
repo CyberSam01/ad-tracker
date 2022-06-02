@@ -1,5 +1,5 @@
-import AdvertisingChannel from "./adclass.js"
-import adData from "./data.js"
+import AdvertisingChannel from "adclass.js"
+import adData from "data.js"
 
 const fb = document.getElementById("fb")
 const twit = document.getElementById("twit")
